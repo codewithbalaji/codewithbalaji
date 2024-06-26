@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji D</h1>
-<h3>I'm a Full-Stack Developer 🚀</h3>
+<h3>I'm a FrontEnd Developer | MERN Developer 🚀</h3>
 
 - 🌱 I’m currently working on **MERN stack projects**
 
