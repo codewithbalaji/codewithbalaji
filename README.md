@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balaji D</h1>
-<h3>I'm a FrontEnd Developer | MERN Developer 🚀</h3>
+<h3>I'm a FrontEnd Developer | MERN Developer | FullStack Developer 🚀</h3>
 
-- 🌱 I’m currently working on **MERN stack projects**
+- 🌱 I’m currently working on **FullStack projects**
 
 - ✉️ You can contact me at **balaji01975@gmail.com**
 
